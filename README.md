@@ -1,4 +1,4 @@
-# 📱 Tugas 2 - Input Control Android
+# Tugas 2 - Input Control Android
 
 ## 👤 Identitas 
 - **Nama**: Harsya Vil'ardi  
@@ -12,7 +12,7 @@
 Aplikasi Android ini dibuat untuk menyelesaikan studi kasus UTS yang telah diberikan.  
 Penjelasan lengkap mengenai proyek ini dapat dilihat pada laporan berikut:
 
-📄 [ PDF Studi Kasus UTS] (https://drive.google.com/file/d/1a4oD6sw_FhdDtYNul47FkLtdlW1nHFFv/view?usp=drive_link)
+📄 [ PDF Studi Kasus UTS](https://drive.google.com/file/d/1a4oD6sw_FhdDtYNul47FkLtdlW1nHFFv/view?usp=drive_link)
 
 Laporan tersebut dikumpulkan melalui platform E-Learning.
 
